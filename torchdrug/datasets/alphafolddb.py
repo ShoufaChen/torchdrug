@@ -84,17 +84,18 @@ class AlphaFoldDB(data.ProteinDataset):
         "https://ftp.ebi.ac.uk/pub/databases/alphafold/v2/UP000270924_6293_WUCBA_v2.tar"
     ]
     md5s = [
-        "4cd5f596ebfc3d45d9f6b647dc5684af", "9e26602ba2d9f233ef4fcf82703ddb59",
-        "60a09db1e1c47a98763d09879784f536", "a0ab562b7372f149673c4518f949501f", 
-        "6205138b14fb7e7ec09b366e3e4f294b", "31f31359cd7254f82304e3886440bdd3", 
-        "a590096e65461ed4eb092b2147b97f0b", "8f1e120f372995644a7101ad58e5b2ae", 
-        "9a659c4aed2a8b833478dcd5fffc5fd8", "95d775f2ae271cf50a101c73335cd250", 
-        "e5b12da43f5bd77298ca50e19706bdeb", "90e953abba9c8fe202e0adf825c0dfcc", 
-        "38a11553c7e2d00482281e74f7daf321", "2bcdfe2c37154a355fe4e8150c279c13", 
-        "580a55e56a44fed935f0101c37a8c4ab", "b8d08a9033d111429fadb4e25820f9f7", 
-        "59d1167f414a86cbccfb204791fea0eb", "dfde6b44026f19a88f1abc8ac2798ce6", 
-        "a1c2047a16130d61cac4db23b2f5b560", "e4d4b72df8d075aeb607dcb095210304", 
-        "5cdad48c799ffd723636cae26433f1f9", "98a7c13987f578277bfb66ac48a1e242", 
+        "4cd5f596ebfc3d45d9f6b647dc5684af", "b89bee5507f78f971417cc8fd75b40f7",
+        "a6459a1f1a0a22fbf25f1c05c2889ae3", "24dfba8ab93dbf3f51e7db6b912dd6b4",
+        "6b81b3086ed9e57e04a54f148ecf974c", "a50f4fd9f581c89e79e1b2857e54b786",
+        "fdd16245769bf1f7d91a0e285ac00e52", "66b9750c511182bc5f8ee71fe2ab2a17",
+        "5dadeb5aac704025cac33f7557794858", "99b22e0f050d845782d914becbfe4d2f",
+        "da938dfae4fabf6e144f4b5ede5885ec", "2003c09d437cfb4093552c588a33e06d",
+        "fba59f386cfa33af3f70ae664b7feac0", "d7a1a6c02213754ee1a1ffb3b41ad4ba",
+        "8a0e8deadffec2aba3b7edd6534b7481", "1854d0bbcf819de1de7b0cfdb6d32b2e",
+        "d9720e3809db6916405db096b520c236", "6b918e9e4d645b12a80468bcea805f1f",
+        "ed0eefe927eb8c3b81cf87eaabbb8d6e", "051369e0dc8fed4798c8b2c68e6cbe2e",
+        "b05ff57164167851651c625dca66ed28", "68e7a6e57bd43cb52e344b3190073387",
+        "75d027ac7833f284fda65ea620353e8a"
     ]
     species_nsplit = [
         2, 1, 1, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 20,
